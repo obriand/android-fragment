@@ -1,4 +1,4 @@
-package com.example.dmfragment;
+package com.obriand.dmfragment;
 
 import android.os.Bundle;
 import android.app.Activity;
