@@ -10,7 +10,7 @@
         android:layout_weight="1"
         android:layout_height="match_parent"
         android:layout_marginTop="?android:attr/actionBarSize"
-        class="com.example.dmfragment.MyListFragment" >        
+        class="com.obriand.dmfragment.MyListFragment" >        
     </fragment>
 
     <fragment
@@ -18,7 +18,7 @@
         android:layout_width="0dp"
         android:layout_weight="2"
         android:layout_height="match_parent"
-        class="com.example.dmfragment.DetailFragment" >
+        class="com.obriand.dmfragment.DetailFragment" >
         <!-- Preview: layout=@layout/details -->
     </fragment>
 
